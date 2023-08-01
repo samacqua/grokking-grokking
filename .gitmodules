@@ -1,0 +1,6 @@
+[submodule "grokking-squared"]
+	path = grokking-squared
+	url = https://github.com/samacqua/grokking-squared
+[submodule "grokking-replication"]
+	path = grokking-replication
+	url = https://github.com/samacqua/grokking-replication
